@@ -1,0 +1,25 @@
+# Source files (only ship dist/)
+src/
+examples/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+.gitignore
+.npmignore
+
+# Development
+node_modules/
+coverage/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Docs (keep README and LICENSE)
+CONTRIBUTING.md

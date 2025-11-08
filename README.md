@@ -2,7 +2,7 @@
 
 A beautiful retro terminal-style search interface for React/Next.js applications with Unix-like commands. Navigate your site using classic command-line operations like `cd`, `ls`, `grep`, and more!
 
-![Terminal Search Demo](https://via.placeholder.com/800x400?text=Terminal+Search+Interface)
+![Terminal Search Demo](./assets/demo.png)
 
 ## Features
 
